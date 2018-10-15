@@ -1,0 +1,7 @@
+/node_modules
+.idea
+/npm-debug.log
+.bak
+/ssl
+ca-certificates.crt
+/dist
