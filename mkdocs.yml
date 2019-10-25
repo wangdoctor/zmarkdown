@@ -1,6 +1,9 @@
 site_name: My Docs
-pages:
-- [argus/index.md, 文档]
+docs_dir: docs
 theme: readthedocs
 repo_url: https://github.com/wangdoctor/zmarkdown
 repo_name: GitHub
+pages:
+- JDchain: 'jd/readme1.md'
+- 首页: 'argus/readme.md'
+
