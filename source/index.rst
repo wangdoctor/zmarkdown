@@ -10,6 +10,7 @@ Welcome to a's documentation!
    :maxdepth: 2
 
    hello
+   argus/readme
 
 
 
