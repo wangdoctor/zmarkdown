@@ -1,2 +1,4 @@
 site_name: My Docs
 theme: readthedocs
+repo_url: https://github.com/wangdoctor/zmarkdown
+repo_name: GitHub
