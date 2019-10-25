@@ -1,7 +1,0 @@
-site_name: My Docs
-docs_dir: docs
-theme: readthedocs
-repo_url: https://github.com/wangdoctor/zmarkdown
-pages:
-- 'index.md', 'Introduction'
-
