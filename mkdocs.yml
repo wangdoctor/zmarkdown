@@ -1,4 +1,6 @@
 site_name: My Docs
+pages:
+- [argus/index.md, 文档]
 theme: readthedocs
 repo_url: https://github.com/wangdoctor/zmarkdown
 repo_name: GitHub
